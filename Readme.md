@@ -32,5 +32,3 @@ Preparo la certificación **AZ-900** de Microsoft Azure. Inglés B1.
 
 - **LinkedIn:** [kevin-gonzalez-sanchez](https://www.linkedin.com/in/kevin-gonzalez-sanchez)
 - **Correo:** kegonzalezs@unal.edu.co
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
