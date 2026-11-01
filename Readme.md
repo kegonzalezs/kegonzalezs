@@ -1,15 +1,36 @@
-# 💫 About Me:
-Systems and Computer Engineer from the Universidad Nacional de Colombia, focused on the design, development, and planning of<br>Full-Stack applications. Proactive and committed professional with a high learning capacity and a proven ability to collaborate in<br>multidisciplinary teams. Technical expertise in Java, Python, JavaScript, React, and MySQL, delivering comprehensive frontend and<br>backend solutions.<br>
+# Kevin Jair González Sánchez
 
+**Desarrollador Backend .NET (C#) · SQL Server · Oracle · Análisis funcional en banca**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kevin-gonzalez-sanchez) 
+Ingeniero de Sistemas y Computación de la Universidad Nacional de Colombia (2025). Trabajé de enero a noviembre de 2025 en Koncilia S.A.S —primero como practicante y luego como desarrollador contratado— sobre una plataforma de conciliación bancaria que usaban 3 o 4 clientes de la compañía.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kegonzalezs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kegonzalezs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kegonzalezs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Qué hago
+
+- **Backend .NET (C#)** sobre bases de código existentes: corrección de errores, nuevas funcionalidades y mantenimiento de los procesos ETL de carga y procesamiento de archivos bancarios, algunos de más de 100.000 registros.
+- **Bases de datos SQL Server y Oracle**: consultas, ajustes a procedimientos y corrección de inconsistencias en los datos de conciliación.
+- **Análisis funcional y soporte**: configuración de menús, filtros y permisos, gestión de usuarios y atención de solicitudes de ajuste según el proceso de cada cliente.
+
+Busco mi primer rol de tiempo completo en Bogotá o remoto: desarrollo backend .NET, análisis funcional o soporte de aplicaciones en banca, datos y business intelligence, o sistemas empresariales (ERP).
+
+## Stack
+
+**Profesional:** `C#` · `.NET` · `SQL Server` · `Oracle` · `SQL` · `ETL` · `Git`
+
+**Proyectos y universidad:** `Node.js` · `Express` · `MySQL` · `Docker` · `React` · `Java` · `Python`
+
+Preparo la certificación **AZ-900** de Microsoft Azure. Inglés B1.
+
+## Proyectos
+
+| Repositorio | Qué es | Stack |
+| --- | --- | --- |
+| **[unwallet-backend](https://github.com/kegonzalezs/unwallet-backend)** | API REST de una billetera digital: usuarios, categorías y cuentas. Arquitectura en capas, procedimientos almacenados y despliegue con Docker Compose | Node.js · Express · MySQL · Docker |
+| **[AlgorithmsUN2022I](https://github.com/kegonzalezs/AlgorithmsUN2022I)** | Laboratorios del curso de Algoritmos de la Universidad Nacional de Colombia | Jupyter Notebook |
+| **[showcase](https://github.com/kegonzalezs/showcase)** | Informe académico de computación visual con sketches interactivos en p5.js | Hugo · p5.js |
+
+## Contacto
+
+- **LinkedIn:** [kevin-gonzalez-sanchez](https://www.linkedin.com/in/kevin-gonzalez-sanchez)
+- **Correo:** kegonzalezs@unal.edu.co
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
